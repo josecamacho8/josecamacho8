@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @josecamacho8
+Hi, I’m Jose Camacho, a Software Engineer with a Degree in ECE from UT Austin.
+
 - 👀 I’m interested in ...
 
 Game development, 3D printing, and Myoelectric Prosthesis.
